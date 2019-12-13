@@ -2,21 +2,36 @@
 
 <html>
 
-<h1> Love McNill </h1>
+<head>
+
+    <h1> Love McNill </h1>
+    <img src="images/headshots.jpg" width="311" height="311" atl="Love McNill most recent headshot"> 
+</head>
 <br>
 
 <body>
-  <p> Thank you for taking the time to visit my HTML designed Webpage. A few fun facts about this project.<p>
+<h2>Page Purpose</h2>
+  <p> <em>Thank you</em> for taking the time to visit my HTML designed Webpage. </p>
 
-<br>
+    <h2>Fun Facts</h2>
   <ul>
+    
     <li>This is my first time creating a HTML website.</li>
     <li> I am efficent in every aspect of this page.
     <li>Date started : December 13, 2019
-   <li>Date Updated : December 13, 2019
+    <li>Date Updated : December 13, 2019
     <li> I am self taught and really enjoy HTML so far.
   </ul>
 
+    <br>
+    
+<h2>Contact Love McNill</h2>
+    <ul>
+        <li>eMail : <a href="mailto:love.mcnill@gmail.com?subject=HTML Website Page Inquires">Love.mcnill@gmail.com </a></li>
+        <li>Linkedin : <a href="https://www.linkedin.com/in/lovemcnill/"> @LoveMcNill</a></li>
+        
+    </ul>
+    
 
 </body>
 </html>
