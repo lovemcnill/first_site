@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+
+<h1> Love McNill </h1>
+<br>
+
+<body>
+  <p> Thank you for taking the time to visit my HTML designed Webpage. A few fun facts about this project.<p>
+
+<br>
+  <ul>
+    <li>This is my first time creating a HTML website.</li>
+    <li> I am efficent in every aspect of this page.
+    <li>Date started : December 13, 2019
+   <li>Date Updated : December 13, 2019
+    <li> I am self taught and really enjoy HTML so far.
+  </ul>
+
+
+</body>
+</html>
